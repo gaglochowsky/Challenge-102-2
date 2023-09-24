@@ -53,9 +53,41 @@
       
       hr {
         position: relative;
-        top: 20px;
+        top: 25px;
         border: none;
         height: 12px;
         background: white;
-        margin-bottom: 50px;
+        margin-bottom: 55px;
+      }
+
+      .intro{
+
+        padding: 75px;
+        font-size:larger;
+        padding-bottom: 5px;
+        padding-top: 5px
+      }
+
+      .paragraph1{
+        padding: 75px;
+        font-size:larger;
+        padding-bottom: 50px;
+        padding-top: 5px
+      }
+
+      .paragraph2{
+        padding: 75px;
+        font-size:larger;
+        padding-bottom: 50px;
+        padding-top: 5px
+
+      }
+
+      .paragraph3{
+        padding: 75px;
+        font-size:larger;
+        padding-bottom: 50px;
+        padding-top: 5px
+
+
       }
